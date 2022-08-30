@@ -49,8 +49,8 @@ const uint8_t GPS_RX_PIN = 1;
 const BaseType_t pro_cpu = 0;
 const BaseType_t app_cpu = 1;
 
-const char *ssid = "unknown-network";
-const char *password = "4321,dcba";
+const char *ssid = "enter ssid";
+const char *password = "enter password";
 
 // input MQTT Broker IP address
 const char *mqtt_server = "192.168.4.4";
